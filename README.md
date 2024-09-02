@@ -1,7 +1,7 @@
 # License of Wenzhou-Pack-Degradation-Data
 
 ***Accessibility and Attribution***  <br>
-The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Pack Degradation Data" and cite the source article: “Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2024.”
+The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Pack Degradation Data" and cite the source article: Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2024, https://doi.org/10.1016/j.apenergy.2024.124290
 
 ***Data Storage Location***  <br>
 GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
@@ -35,7 +35,7 @@ WeChat ID: LyuDongzhen   <br>
 # WZU成组电池退化数据的许可协议
 
 ***数据访问和署名***  <br>
-相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU成组电池退化数据”（英文版本为 "Wenzhou Pack Degradation Data"），并引用以下来源文章："Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2024."
+相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU成组电池退化数据”（英文版本为 "Wenzhou Pack Degradation Data"），并引用以下来源文章：Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2024, https://doi.org/10.1016/j.apenergy.2024.124290
 
 ***数据存储位置***  <br>
 GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
