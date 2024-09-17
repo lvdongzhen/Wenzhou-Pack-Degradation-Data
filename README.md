@@ -1,4 +1,4 @@
-# License of Wenzhou-Pack-Degradation-Data
+# License of Wenzhou Pack Degradation Data
 
 ***Accessibility and Attribution***  <br>
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Pack Degradation Data" and cite the source article: Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025, https://doi.org/10.1016/j.apenergy.2024.124290
