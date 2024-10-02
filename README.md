@@ -1,14 +1,14 @@
 # License of Wenzhou Pack Degradation Data
 
 ***Accessibility and Attribution***  <br>
-The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Pack Degradation Data" and cite the source article: Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025, https://doi.org/10.1016/j.apenergy.2024.124290  <br>
-For Chinese-language manuscripts, please specify that the data source is WZU成组电池退化数据, and also cite the corresponding Chinese literature from this experiment: “吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024”  <br>
+The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Pack Degradation Data" and cite the source article: **Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025, https://doi.org/10.1016/j.apenergy.2024.124290**  <br>
+For Chinese-language manuscripts, please specify that the data source is WZU成组电池退化数据, and also cite the corresponding Chinese literature from this experiment: “**吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024**”  <br>
 
-Our Chinese version literature focuses on the integration with Lebesgue Sampling-based fault prognosis. Details can be found in the following literatures:   <br>
-Dongzhen Lyu, G. Niu, B. Zhang, G. Chen, T. Yang* (2021): Lebesgue-Time–Space-Model-Based Diagnosis and Prognosis for Multiple Mode Systems. In IEEE Transactions on Industrial Electronics 68, 1591-1603.   <br>
-Dongzhen Lyu, G. Niu, E. Liu, B. Zhang, G. Chen, T. Yang*, Enrico Zio (2022): Time space modelling for fault diagnosis and prognosis with uncertainty management: A general theoretical formulation. Reliability Engineering & System Safety 226, 108686.   <br>
-E. Liu, X. Wang, G. Niu, Dongzhen Lyu, T. Yang and B. Zhang* (2022): Lebesgue Sampling-Based Li-Ion Battery Simplified First Principle Model for SOC Estimation and RDT Prediction. In IEEE Transactions on Industrial Electronics, vol. 69, no. 9, pp. 9524-9534.   <br>
-E. Liu, X. Wang, G. Niu, Dongzhen Lyu, T. Yang and B. Zhang* (2023): Uncertainty Management in Lebesgue-Sampling-Based Li-Ion Battery SFP Model for SOC Estimation and RDT Prediction. In IEEE/ASME Transactions on Mechatronics, vol. 28, no. 2, pp. 611-620.  <br>
+Our Chinese publication focuses on the integration of Lebesgue sampling for improved fault prognosis performance. Details information about Lebesgue sampling can be found in the following literature:  <br>
+Dongzhen Lyu, G. Niu, B. Zhang, G. Chen, T. Yang* (2021): **Lebesgue-Time–Space-Model-Based Diagnosis and Prognosis for Multiple Mode Systems. In IEEE Transactions on Industrial Electronics 68, 1591-1603**.   <br>
+Dongzhen Lyu, G. Niu, E. Liu, B. Zhang, G. Chen, T. Yang*, **Enrico Zio (2022): Time space modelling for fault diagnosis and prognosis with uncertainty management: A general theoretical formulation. Reliability Engineering & System Safety 226, 108686**.   <br>
+E. Liu, X. Wang, G. Niu, Dongzhen Lyu, T. Yang and B. Zhang* (2022): **Lebesgue Sampling-Based Li-Ion Battery Simplified First Principle Model for SOC Estimation and RDT Prediction. In IEEE Transactions on Industrial Electronics, vol. 69, no. 9, pp. 9524-9534**.   <br>
+E. Liu, X. Wang, G. Niu, Dongzhen Lyu, T. Yang and B. Zhang* (2023): **Uncertainty Management in Lebesgue-Sampling-Based Li-Ion Battery SFP Model for SOC Estimation and RDT Prediction. In IEEE/ASME Transactions on Mechatronics, vol. 28, no. 2, pp. 611-620**.  <br>
 
 ***Data Storage Location***  <br>
 GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
@@ -45,7 +45,7 @@ WeChat ID: LyuDongzhen   <br>
 相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU成组电池退化数据”，并引用以下来源文章：“吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024”  <br>
 外文类型的稿件应注明数据来源为Wenzhou Pack Degradation Data，同时应引用本实验对应外文文献：“Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025, https://doi.org/10.1016/j.apenergy.2024.124290”  <br>
 
-我们的中文版本论文侧重于拓展基于勒贝格采样的寿命预测方法。详细信息可以在以下文献中找到：  <br>
+我们的中文版本论文侧重于拓展基于勒贝格采样的寿命预测方法。关于勒贝格采样的详细信息可以在以下文献中找到：  <br>
 Dongzhen Lyu, G. Niu, B. Zhang, G. Chen, T. Yang* (2021): Lebesgue-Time–Space-Model-Based Diagnosis and Prognosis for Multiple Mode Systems. In IEEE Transactions on Industrial Electronics 68, 1591-1603.   <br>
 Dongzhen Lyu, G. Niu, E. Liu, B. Zhang, G. Chen, T. Yang*, Enrico Zio (2022): Time space modelling for fault diagnosis and prognosis with uncertainty management: A general theoretical formulation. Reliability Engineering & System Safety 226, 108686.   <br>
 E. Liu, X. Wang, G. Niu, Dongzhen Lyu, T. Yang and B. Zhang* (2022): Lebesgue Sampling-Based Li-Ion Battery Simplified First Principle Model for SOC Estimation and RDT Prediction. In IEEE Transactions on Industrial Electronics, vol. 69, no. 9, pp. 9524-9534.   <br>
