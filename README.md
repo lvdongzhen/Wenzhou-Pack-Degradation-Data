@@ -2,7 +2,7 @@
 
 ***Accessibility and Attribution***  <br>
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Pack Degradation Data" and cite the source article: **Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025, https://doi.org/10.1016/j.apenergy.2024.124290**  <br>
-For Chinese-language manuscripts, please specify that the data source is WZU成组电池退化数据, and also cite the corresponding Chinese literature from this experiment: “**吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024**”  <br>
+For Chinese-language manuscripts, please specify that the data source is WZU成组电池退化数据, and also cite the corresponding Chinese literature from this experiment: “吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024”  <br>
 
 Our Chinese publication focuses on the integration of Lebesgue sampling for improved fault prognosis performance. Details information about Lebesgue sampling can be found in the following literature:  <br>
 Dongzhen Lyu, G. Niu, B. Zhang, G. Chen, T. Yang* (2021): **Lebesgue-Time–Space-Model-Based Diagnosis and Prognosis for Multiple Mode Systems. In IEEE Transactions on Industrial Electronics 68, 1591-1603**.   <br>
