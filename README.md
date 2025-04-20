@@ -57,7 +57,7 @@ GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
 Onedrive: https://1drv.ms/f/s!AnQLciP1URipkoZvx2CWRv0aOBhG9A?e   <br>
 X_MOL个人主页: https://www.x-mol.com/groups/DongzhenLyu  <br>
-蓝奏云：https://wwqn.lanzoul.com/b00mpeez5c (PWD:dr1x)  <br>
+蓝奏云：https://wwqn.lanzoul.com/b00mpeez5c (密码:dr1x)  <br>
 
 ***署名-禁止演绎要求***  <br>
 在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU成组电池退化数据”（英文版本为 "Wenzhou Pack Degradation Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。如有需要，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
