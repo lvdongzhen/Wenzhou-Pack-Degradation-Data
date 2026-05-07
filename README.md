@@ -1,3 +1,5 @@
+**Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets**
+
 # License of Wenzhou Pack Degradation Data
 
 ***Accessibility and Attribution***  <br>
